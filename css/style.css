@@ -168,12 +168,6 @@
 .items-container{
   padding: 30px;
   display: flex;
-  /* column-gap: 50px;
-  row-gap: 50px;
-  grid-template-columns: 
-  [left] 1fr
-  [; 
-  column-gap: 50px; */
   width: 100%;
   justify-content: center;
 }
